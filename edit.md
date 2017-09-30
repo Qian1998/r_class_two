@@ -1,11 +1,11 @@
 # r_class_two
 
 
-github learning
+## github learning
 
 
-|:----:|:----|----:|  #居中/居左/居右
-| 先空一格 | xx | yy |
+| ------- |:--------:| :----:|  
+| zz | xx | yy |
 | person  |grade  | score |
 
 
